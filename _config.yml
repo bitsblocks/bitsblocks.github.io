@@ -10,9 +10,8 @@ home:
   url:   http://bitsblocks.github.io     ## allow http:// and https:// w/ // works??
   title: Bits & Blocks Press
 
-
 style:
-  link_color: '#8b0000'    # use ruby-ish red - change - why? why not?
+  link_color: '#000080'
 
 
 ########################
