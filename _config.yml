@@ -1,0 +1,44 @@
+###################
+# site / style settings
+
+title:  Bits & Blocks Press - Free Books about Bitcoins, Blockchains, Contract Scripts 'n' More
+## use &amp; for html??  why? why not??
+##   e.g. Yuki &amp; Moto Press - Free Books about Ruby n Friends
+
+
+home:
+  url:   http://bitsblocks.github.io     ## allow http:// and https:// w/ // works??
+  title: Bits & Blocks Press
+
+
+style:
+  link_color: '#8b0000'    # use ruby-ish red - change - why? why not?
+
+
+########################
+# build settings
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+sass:
+  style: expanded
+
+exclude:
+- README.md
+- .gitignore
+- Gemfile
+- Gemfile.lock
+- NOTES.md
+
+
+plugins:
+- jekyll-remote-theme
+- jekyll-avatar
+- jemoji
+
+
+remote_theme: octobook/book-2018-theme
