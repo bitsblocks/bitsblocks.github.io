@@ -1,3 +1,6 @@
 [submodule "_ethereum-whitepaper"]
 	path = _ethereum-whitepaper
 	url = https://github.com/bitsblocks/ethereum-whitepaper
+[submodule "_get-rich-quick-bible"]
+	path = _get-rich-quick-bible
+	url = https://github.com/bitsblocks/get-rich-quick-bible
