@@ -1,7 +1,7 @@
 ############################
 #  Book (Meta) Info
 
-title:     "Ethereum White Paper - A Next-Generation Smart Contract and Decentralized Application Platform (Book Edition)"
+title:     "Ethereum White Paper - A Next-Generation Blockchain Service Contract and Decentralized Application Platform (Book Edition)"
 author:
   name:  "Vitalik Buterin, et al"
 
@@ -19,7 +19,7 @@ original:
 #  Table of Contents
 
 contents:
-- title: A Next-Generation Smart Contract and Decentralized Application Platform
+- title: A Next-Generation Blockchain Service Contract and Decentralized Application Platform
   path:  index.md
 - title: Introduction to Bitcoin and Existing Concepts
   path:  intro.md
