@@ -4,3 +4,6 @@
 [submodule "_get-rich-quick-bible"]
 	path = _get-rich-quick-bible
 	url = https://github.com/bitsblocks/get-rich-quick-bible
+[submodule "_bitcoin-maximalist"]
+	path = _bitcoin-maximalist
+	url = https://github.com/bitsblocks/bitcoin-maximalist
