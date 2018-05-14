@@ -7,3 +7,6 @@
 [submodule "_bitcoin-maximalist"]
 	path = _bitcoin-maximalist
 	url = https://github.com/bitsblocks/bitcoin-maximalist
+[submodule "_ethereum"]
+	path = _ethereum
+	url = https://github.com/bitsblocks/ethereum
