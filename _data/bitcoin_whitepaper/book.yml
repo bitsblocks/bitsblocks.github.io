@@ -1,0 +1,36 @@
+############################
+#  Book (Meta) Info
+
+title:   "Bitcoin White Paper - A Peer-to-Peer Electronic Cash System (Book Edition)"
+author:
+  name:  "Satoshi Nakamoto"
+
+
+#############################
+#   Extras
+
+github:
+  url: https://github.com/bitsblocks/bitcoin-whitepaper
+
+
+
+######################
+#  Table of Contents
+
+contents:
+- title: "Bitcoin: A Peer-to-Peer Electronic Cash System"
+  path:  index.md
+  sections:
+  - title: Introduction
+  - title: Transactions
+  - title: Timestamp Server
+  - title: Proof-of-Work
+  - title: Network
+  - title: Incentive
+  - title: Reclaiming Disk Space
+  - title: Simplified Payment Verification
+  - title: Combining and Splitting Value
+  - title: Privacy
+  - title: Calculations
+  - title: Conclusion
+  - title: References

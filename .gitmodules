@@ -13,3 +13,6 @@
 [submodule "_crypto-facts"]
 	path = _crypto-facts
 	url = https://github.com/bitsblocks/crypto-facts
+[submodule "_bitcoin-whitepaper"]
+	path = _bitcoin-whitepaper
+	url = https://github.com/bitsblocks/bitcoin-whitepaper
