@@ -10,3 +10,6 @@
 [submodule "_ethereum"]
 	path = _ethereum
 	url = https://github.com/bitsblocks/ethereum
+[submodule "_crypto-facts"]
+	path = _crypto-facts
+	url = https://github.com/bitsblocks/crypto-facts
