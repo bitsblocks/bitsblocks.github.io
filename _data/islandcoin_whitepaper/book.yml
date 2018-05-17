@@ -1,0 +1,30 @@
+############################
+#  Book (Meta) Info
+
+title:   "IslandCoin White Paper - How to Run a Blockchain on a Deserted Island with Pen and Paper (Book Edition)"
+author:
+  name:  "Tal Kol"
+
+
+#############################
+#   Extras
+
+github:
+  url: https://github.com/bitsblocks/islandcoin-whitepaper
+
+
+######################
+#  Table of Contents
+
+contents:
+- title: IslandCoin
+  path:  index.md
+  sections:
+  - title: Motivation
+  - title: Consensus
+  - title: Transaction and Block Specification
+    sections:
+    - title: Transaction format
+    - title: Block format
+    - title: Genesis block
+  - title: References

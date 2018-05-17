@@ -16,3 +16,6 @@
 [submodule "_bitcoin-whitepaper"]
 	path = _bitcoin-whitepaper
 	url = https://github.com/bitsblocks/bitcoin-whitepaper
+[submodule "_islandcoin-whitepaper"]
+	path = _islandcoin-whitepaper
+	url = https://github.com/bitsblocks/islandcoin-whitepaper
