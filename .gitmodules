@@ -19,3 +19,6 @@
 [submodule "_islandcoin-whitepaper"]
 	path = _islandcoin-whitepaper
 	url = https://github.com/bitsblocks/islandcoin-whitepaper
+[submodule "_crypto-bubbles"]
+	path = _crypto-bubbles
+	url = https://github.com/bitsblocks/crypto-bubbles.git
